@@ -221,7 +221,7 @@ html.theme-light #app-mount::after {
     background-position: 10px center;
 }
 
-/* AMOLED-Cord Watermark */
+/* Anclob Watermark */
 .titleBar-AC4pGV.typeWindows-1za-n7::after {
     content: "";
     position: absolute;
